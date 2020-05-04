@@ -1,0 +1,15 @@
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\bin\Debug\netstandard2.0\MobileCamoes.deps.json
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\bin\Debug\netstandard2.0\MobileCamoes.dll
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\bin\Debug\netstandard2.0\MobileCamoes.pdb
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\MobileCamoes.csprojAssemblyReference.cache
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\View\DetailVeiw.xaml.g.cs
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\View\MainView.xaml.g.cs
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\View\MainViewDiaDoTrabalhador.xaml.g.cs
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\RefitStubs.g.cs
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\MobileCamoes.csproj.CoreCompileInputs.cache
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\MobileCamoes.AssemblyInfoInputs.cache
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\MobileCamoes.AssemblyInfo.cs
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\MobileCamoes.dll
+C:\Users\nilto\OneDrive\Área de Trabalho\ProjetoCamoesMobile-master\MobileCamoes\MobileCamoes\obj\Debug\netstandard2.0\MobileCamoes.pdb

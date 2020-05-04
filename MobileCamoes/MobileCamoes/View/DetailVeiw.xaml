@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileCamoes.View.DetailVeiw"
+             Title="{Binding Title}" BackgroundColor="#CCC">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Favoritar" IconImageSource="{Binding SerieFavorite}" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content >
+        <Frame HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand"
+               Margin="10">
+            <ScrollView>
+                <StackLayout>
+                    <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                        <StackLayout HorizontalOptions="CenterAndExpand">
+                            <Label Text="{Binding Name}" Margin="0,12" FontAttributes="Bold" FontSize="18" />
+                        </StackLayout>
+                        <Image WidthRequest="220" HeightRequest="310" HorizontalOptions="Center" Source="{Binding Image}" />
+                    </StackLayout>
+                    <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal" Margin="0,15">
+                        <Image Source="{Binding FirstStar}" Margin="10,0"/>
+                        <Image Source="{Binding SecondStar}" Margin="10,0"/>
+                        <Image Source="{Binding ThridStar}" Margin="10,0"/>
+                        <Image Source="{Binding FourStar}" Margin="10,0"/>
+                        <Image Source="{Binding FiveStar}" Margin="10,0"/>
+                    </StackLayout>
+                    <Label Text="{Binding Overview}" Margin="0,20,0,0" FontSize="Body"/>
+                </StackLayout>
+            </ScrollView>
+        </Frame>
+    </ContentPage.Content>
+</ContentPage>
